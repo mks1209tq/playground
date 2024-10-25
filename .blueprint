@@ -1,0 +1,17 @@
+created:
+    - app/Http/Controllers/EmiratesIdController.php
+    - database/factories/EmiratesIdFactory.php
+    - database/migrations/2024_10_24_120010_create_emirates_ids_table.php
+    - app/Models/EmiratesId.php
+    - database/seeders/EmiratesIdSeeder.php
+    - tests/Feature/Http/Controllers/EmiratesIdControllerTest.php
+    - app/Http/Requests/EmiratesIdStoreRequest.php
+    - app/Http/Requests/EmiratesIdUpdateRequest.php
+    - resources/views/emiratesId/index.blade.php
+    - resources/views/emiratesId/create.blade.php
+    - resources/views/emiratesId/show.blade.php
+    - resources/views/emiratesId/edit.blade.php
+updated:
+    - routes/web.php
+models:
+    EmiratesId: { document_type: 'string:1', country_code: 'string:3', card_number: 'string:10', id_number: 'string:18', date_of_birth: date, gender: 'string:6', expiry_date: date, nationality: 'string:3', surname: string, given_names: string, timestamps: timestamps, softdeletes: softDeletes }

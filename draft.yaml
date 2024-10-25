@@ -1,0 +1,21 @@
+models:
+  EmiratesId:
+    document_type: string:1
+    country_code: string:3
+    card_number: string:10
+    id_number: string:18
+    date_of_birth: date
+    gender: string:6
+    expiry_date: date
+    nationality: string:3
+    surname: string
+    given_names: string
+    timestamps
+    softDeletes
+
+controllers:
+  EmiratesId:
+    resource
+
+seeders: EmiratesId
+    
