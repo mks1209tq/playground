@@ -11,6 +11,9 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     {{ __("You're logged in!") }}
                 </div>
+                <div class="p-6 text-gray-900 dark:text-gray-100 mt-6 py-6">
+                    <a href="/extract-mrz">Extract MRZ</a>
+                </div>
             </div>
         </div>
     </div>

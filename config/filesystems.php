@@ -57,6 +57,17 @@ return [
             'throw' => false,
         ],
 
+        'idrive_e2' => [
+            'driver' => 's3',
+            'key' => env('IDRIVE_API_KEY'),
+            'secret' => env('IDRIVE_API_SECRET'),
+            'region' => env('IDRIVE_REGION'),
+            'bucket' => env('IDRIVE_BUCKET'),
+            'url' => env('IDRIVE_E2_URL'),
+            'endpoint' => env('IDRIVE_ENDPOINT'),
+            'use_path_style_endpoint' => true,
+        ]
+
     ],
 
     /*
