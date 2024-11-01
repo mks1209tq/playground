@@ -1,0 +1,31 @@
+This is the MRZ string for United Arab Emirates ID
+
+ILARE1338779730784200021699606
+0007135M2512071IND<<<<<<<<<<<4
+JAYAKUMAR<JAYAKUMAR<<PRASANTHA
+
+I LARE 1338779730 784200021699606
+0 007135 M 251207 1IND<<<<<<<<<<<4
+JAYAKUMAR<JAYAKUMAR<<PRASANTHA
+
+
+ILARE13387797307842000216996060007135M2512071IND<<<<<<<<<<<4JAYAKUMAR<JAYAKUMAR<<PRASANTHA
+
+Type: I
+I dont know what this is: LARE
+Card Number: 1338779730
+Emirates ID Number: 784200021699606
+Check Digit: 0
+Date of Birth: 000713
+5
+Gender: M
+Date of Expiry: 251207
+1
+Nationality: IND
+Pattern: <<<<<<<<<<<
+Check Digit: 4
+Given Names: JAYAKUMAR
+Pattern: <
+Surname: JAYAKUMAR
+Pattern: <<
+First Name: PRASANTHA

@@ -123,4 +123,10 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    'imagemagick_path' => env('IMAGEMAGICK_PATH', 'magick'),
+
+    'tesseract_path' => env('TESSERACT_PATH', 'tesseract')
+
+    
+
 ];
